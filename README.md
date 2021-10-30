@@ -8,4 +8,4 @@ We can send mails to all respective recipients by reading from an excel file.
 In this I customized my mailer to select a certificate pdf from a folder based on the cirrent name in the excel sheet, add the name from the sheet in the body of the sender and mail it.
 
 IMPORTANT make sure that you have enabled the option in your gmail security setting the set less secure app feature to ON.
-By default this remains OFF, so you need to activate it inorder to perform your smtp transfer.
+By default this remains OFF, so you need to activate it inorder to perform your smtp transfer. :)
